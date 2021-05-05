@@ -1,1 +1,2 @@
 lgb_baseline_version1_chapter7_original.ipynb是原始代码测试结果。
+lgb_Lending_Club_final.ipynb是机器学习模型测试结果。
